@@ -46,6 +46,10 @@ htmlcov/
 # Local editor (optional — remove if you commit shared settings)
 .idea/
 
+# Generated plots (script output when no GUI)
+tips_regression.png
+iris_regression.png
+
 # Model / data artifacts (uncomment if you add these locally)
 # *.pkl
 # *.joblib

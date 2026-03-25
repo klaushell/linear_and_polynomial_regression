@@ -40,6 +40,6 @@ venv-activate:
 	@echo "Run: source $(VENV)/bin/activate"
 
 info:
-	@echo "Project: Tip prediction with linear and polynomial regression"
+	@echo "Project: Linear & polynomial regression (Tips or Iris)"
 	@echo "Script: linear_regression.py"
-	@echo "Dataset: Seaborn 'tips' (total_bill -> tip)"
+	@echo "Datasets: tips (total_bill -> tip), iris (sepal -> petal length)"
